@@ -1,0 +1,3 @@
+*.xml
+migration.rb
+.DS_Store
